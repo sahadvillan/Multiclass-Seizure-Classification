@@ -1,5 +1,5 @@
 # Multiclass-Seizure-Classification
-** Seizure Type Classification using Statistical Variants and Machine Learning **
+
 This repository contains the implementation of a seizure type classification model based on statistical variants and machine learning techniques, as described in the paper titled "Classification of Seizure Types Based on Statistical Variants and Machine Learning".
 
 Dataset
@@ -20,7 +20,7 @@ Report any issues or suggestions for improvement via GitHub issues.
 Citation
 If you use this code or find it helpful in your research, please consider citing the original paper:
 
-[Insert Paper Citation Here]
+A. Shankar, S. Dandapat and S. Barma, "Classification of Seizure Types Based on Statistical Variants and Machine Learning," 2021 IEEE 18th India Council International Conference (INDICON), Guwahati, India, 2021, pp. 1-6, doi: 10.1109/INDICON52576.2021.9691717.
 
 License
 This project is licensed under the MIT License. Feel free to modify and distribute the code for academic and research purposes.
