@@ -1,1 +1,1 @@
-# Multiclass-Seizure-Classificatio
+# Multiclass-Seizure-Classification
